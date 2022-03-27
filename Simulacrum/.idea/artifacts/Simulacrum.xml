@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simulacrum">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simulacrum</output-path>
+    <root id="archive" name="Simulacrum.jar">
+      <element id="module-output" name="Simulacrum" />
+    </root>
+  </artifact>
+</component>
